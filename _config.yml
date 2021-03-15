@@ -2,9 +2,9 @@
 baseurl: "/testJekyll"
 
 # 网站的主标题
-title: "Girls Coding Day"
+title: "尝试jekyll"
 # 网站副标题
-subTitle: "架起女性与编程的桥梁"
+subTitle: "一个易用的静态blog框架"
 
 # 其它配置, 可忽略, 无需修改
 permalink: /:title/
